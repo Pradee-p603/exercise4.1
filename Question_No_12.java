@@ -2,7 +2,7 @@ package in.co.rays.questions;
 
 public class Question_No_12 {
 	public static void main(String[] args) {
-		int number = 11111111;  
+		int number = 121;  
 		//sidha or ulta same ho;
 
 		int r;
